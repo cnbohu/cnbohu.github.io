@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "cnbohu",
-    "repositoryName": "cnbohu.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"cnbohu","repositoryName":"cnbohu.github.io","branch":"master"},"site":{"title":"P.S. Let.Me.Show.You.The.Way ","description":"希望世间永无欺骗","logo":"http://bohu.net/blog/wp-content/uploads/2012/10/benben-160x160.png","cover":"http://bohu.net/blog/wp-content/uploads/2012/10/benben-160x160.png","url":"https://cnbohu.github.io"},"socialnetwork":{},"theme":{"name":"uno-zen","url":"//cnbohu.github.io/themes/uno-zen"}}
